@@ -1,6 +1,3 @@
-Klar — ich schreibe dir das README jetzt in einfachem Deutsch auf \(B1\) bis \(B2\)-Niveau und direkt in einem Stil, den du als `README.md` Datei für GitHub benutzen kannst.
-
-***
 
 ```md
 # PDF Zusammenführen
@@ -85,7 +82,3 @@ Das Programm funktioniert auf:
 
 Hamadi Alkanaan
 ```
-
-***
-
-Willst du, dass ich dir jetzt auch noch eine **passende `.gitignore` Datei** und eine **MIT LICENSE Datei** dafür schreibe?
